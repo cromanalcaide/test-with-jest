@@ -22,7 +22,7 @@ function fromEuroToDollar(euro){
 }
 
 function fromDollarToYen(dollar){
-    return (dollar * 0.8) * 127.2;
+    return (dollar * 0.8) * 127.9;
 }
 
 function fromYenToPound (yen){
